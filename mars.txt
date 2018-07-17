@@ -3,3 +3,5 @@ I don't know how to grow potatoes.
 Good odds I will starve to death.
 
 Maybe I can grow brussel sprouts instead?
+
+Note that this change was made on GitHub
